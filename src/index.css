@@ -11,21 +11,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-
-form input,
-form button {
-  padding: 0.5rem;
-  font-size: 2rem;
-  border: none;
-  background: white;
-}
-form button {
-  color: #3c198f;
-  background: #f7fffe;
-  cursor: pointer;
-  transition: all 0.3s ease;
-}
-form button:hover {
-  background: #ff6f47;
-  color: white;
-}
