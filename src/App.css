@@ -11,22 +11,6 @@ body {
   min-height: 100vh;
 }
 
-@media only screen and (min-width: 1501px) {
-  html,
-  body {
-    margin-left: 5%;
-    margin-right: 5%;
-  }
-}
-
-@media only screen and (max-width: 1500px) {
-  html,
-  body {
-    margin-left: 2%;
-    margin-right: 2%;
-  }
-}
-
 header {
   font-size: 2rem;
 }
