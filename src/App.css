@@ -3,12 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
-
-@media screen and (max-width: 768px) {
-  .todo-container {
-    width: 90%;
-  }
+.WebContainer {
+  width: 100%;
+  min-width: 1000px;
+  height: auto;
 }
+
 body {
   background-image: linear-gradient(120deg, #f665cb 0%, #fda085 100%);
   color: white;

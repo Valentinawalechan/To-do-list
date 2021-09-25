@@ -5,11 +5,6 @@ body {
     sans-serif;
 }
 
-@media screen and (max-width: 768px) {
-  .todo-container {
-    width: 90%;
-  }
-}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
