@@ -11,12 +11,12 @@ body {
   min-height: 100vh;
 }
 
-.container {
+.App {
   width: 60%;
   margin: 0 auto;
 }
 @media screen and (max-width: 768px) {
-  .container {
+  .App {
     width: 90%;
   }
   h1 {
