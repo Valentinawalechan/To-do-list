@@ -11,6 +11,19 @@ body {
   min-height: 100vh;
 }
 
+.container {
+  width: 60%;
+  margin: 0 auto;
+}
+@media screen and (max-width: 768px) {
+  .container {
+    width: 90%;
+  }
+  h1 {
+    font-size: 200%;
+  }
+}
+
 header {
   font-size: 2rem;
 }
